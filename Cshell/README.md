@@ -1,6 +1,6 @@
 # Cshell
 
-A shell implemented in C. Written as a part of Operating Systems (CS39002) coursework.
+A shell implemented in C. Written as a part of Operating Systems coursework.
 
 ![Cshell_about](images/Cshell_about.png)
 
