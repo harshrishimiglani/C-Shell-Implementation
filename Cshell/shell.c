@@ -605,7 +605,7 @@ void screenfetch()
 void about()
 {
     // Source - http://ascii.co.uk/art/seashell
-    char* descr = "Cshell made by Jogi Miglani(17123021), Rohit Jhanwar(17123011) and Shubham Kumar(17123013)\n";
+    char* descr = "Cshell made by Harsh Rishi Miglani(21103095)\n";
 
     printf("%s",descr);
 }
